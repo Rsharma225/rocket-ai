@@ -15,6 +15,15 @@ This project compares a standard reward with a **shaped reward** that encourages
 
 The shaped agent lands faster, more consistently, and with much higher scores.
 
+## Before Training
+
+https://github.com/user-attachments/assets/413cc8cf-4a3f-465c-9e87-587f1098b5d8
+
+## After Training
+
+https://github.com/user-attachments/assets/bd7dea63-81dc-4d94-aca7-42b2c99d8737
+
+
 ## Project Structure
 
 ```
