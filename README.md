@@ -32,6 +32,8 @@ rocket-ai/
 │   ├── ppo_lunarlander.zip          # Pre-trained standard PPO
 │   └── ppo_lunarlander_shaped.zip   # Pre-trained shaped PPO
 ├── results/
+│   └── After Training.mp4           # Video results after training the model
+│   └── Before Training.mp4          # Video results before the model was trained
 │   └── Charts.png                   # Comparison charts
 ├── scripts/
 │   ├── reward_wrapper.py            # Custom reward shaping wrapper
