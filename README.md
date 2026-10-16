@@ -41,7 +41,7 @@ rocket-ai/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/rocket-ai.git
+git clone https://github.com/Rsharma225/rocket-ai.git
 cd rocket-ai
 
 # Create a virtual environment (recommended)
