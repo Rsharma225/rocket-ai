@@ -1,3 +1,5 @@
+![Rocket AI Banner](Resulst/Rocket_Ai.jpg)
+
 # Rocket AI – Lunar Lander with PPO & Reward Shaping
 
 Train a PPO agent to land the Lunar Lander using **Gymnasium** and **Stable-Baselines3**.  
