@@ -1,4 +1,4 @@
-![Rocket AI Banner](results/Rocket_Ai.jpg)
+![Rocket AI Banner](results/Rocket_AI.jpg)
 
 # Rocket AI – Lunar Lander with PPO & Reward Shaping
 
